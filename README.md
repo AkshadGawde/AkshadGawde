@@ -13,7 +13,7 @@
 🌟 Let's connect and build something amazing together!
 
 📫 Reach me at: gawdeakshad@gmail.com
-🌐 Check out my portfolio: akshad.in
+🌐 Check out my portfolio: https://akshad.in/
 📷 Connect with me on LinkedIn: www.linkedin.com/in/akshad-gawde
 
 <!---
