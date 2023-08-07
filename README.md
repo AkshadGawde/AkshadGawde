@@ -7,6 +7,7 @@
 
 🚀 Currently honing my skills in HTML, CSS, JavaScript.
 🛠️ Building user-friendly web applications that leave a positive impact.
+
 🌱 Exploring the world of back-end development.
 🤝 Open to collaborations and eager to contribute to open source projects.
 
