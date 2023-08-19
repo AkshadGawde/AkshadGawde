@@ -14,8 +14,8 @@
 📢 Socials:
 
 📧 Reach me at: gawdeakshad@gmail.com
-🌐 Check out my portfolio: https://akshad.in/
-📱 Connect with me on LinkedIn: www.linkedin.com/in/akshad-gawde
+🌐 Portfolio: https://akshad.in/
+📱 LinkedIn:www.linkedin.com/in/akshad-gawde
 
 💻 Tech Stack:
 
