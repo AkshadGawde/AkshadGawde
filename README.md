@@ -15,6 +15,7 @@
 
 📧 Reach me at: gawdeakshad@gmail.com
 🌐 Portfolio: https://akshad.in/
+
 📱 LinkedIn:www.linkedin.com/in/akshad-gawde
 
 💻 Tech Stack:
