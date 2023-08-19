@@ -7,7 +7,6 @@
 
 🚀 Currently honing my skills in HTML, CSS, JavaScript.
 🛠️ Building user-friendly web applications that leave a positive impact.
-
 🌱 I’m currently learning React,Angular ,MogoDB, SQL.
 🤝 Open to collaborations and eager to contribute to open source projects.
 
@@ -19,6 +18,7 @@
 📱 Connect with me on LinkedIn: www.linkedin.com/in/akshad-gawde
 
 💻 Tech Stack:
+
 C, C++, HTML5, JavaScript, Python, TypeScript, React, Node.Js, BootStrap, SQLITE, Canva.
 
 <!---
