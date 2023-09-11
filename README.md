@@ -20,7 +20,7 @@
 
 💻 Tech Stack:
 
-C, C++, HTML5, JavaScript, Python, TypeScript, React, Node.Js, BootStrap, SQLITE, Canva.
+C, C++, HTML5, JavaScript, Python, TypeScript, React, Node.Js, BootStrap, SQLITE, Canva, Ui/Ux, Figma.
 
 <!---
 AkshadGawde/AkshadGawde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
