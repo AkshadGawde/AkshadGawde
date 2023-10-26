@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack.<br>🌱 I’m currently learning React,Angular ,MongoDB ,Docker ,AWS.<br>👯 I’m looking to collaborate on AI Based Projects.<br>🤔 I’m looking for help with Machine Learning & Nodejs based Projects.<br>💬 Ask me about anything tech & Sci Related!<br>📫 How to reach me: gawdeakshad@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact:  I AM GAY<br><br>
+🔭 I’m currently working on MERN Stack.<br>🌱 I’m currently learning React,Angular ,MongoDB ,Docker ,AWS.<br>👯 I’m looking to collaborate on AI Based Projects.<br>🤔 I’m looking for help with Machine Learning & Nodejs based Projects.<br>💬 Ask me about anything tech & Sci Related!<br>📫 How to reach me: gawdeakshad@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: finding balance in strength and bytes. I'm all about pushing limits and breaking barriers 💪💻 <br><br>
 
 
 ## 🌐 Socials:
