@@ -22,6 +22,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AkshadGawde&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AkshadGawde&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=AkshadGawde&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
