@@ -1,6 +1,5 @@
-#About:
-<br>
-🔭 MERN Stack developer diving deep into React, Angular, MongoDB, Docker, Firebase, and AWS.
+#  About Me:
+<br>🔭 MERN Stack developer diving deep into React, Angular, MongoDB, Docker, Firebase, and AWS.
 
 🌱 Constantly learning and improving skills for crafting seamless full stack websites.
 
