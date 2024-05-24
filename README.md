@@ -1,5 +1,4 @@
-#  About Me:
-<br>🔭 MERN Stack developer diving deep into React, Angular, MongoDB, Docker, Firebase, and AWS.
+🔭 MERN Stack developer diving deep into React, Angular, MongoDB, Docker, Firebase, and AWS.
 
 🌱 Constantly learning and improving skills for crafting seamless full stack websites.
 
@@ -12,6 +11,8 @@
 😄 Pronouns: he/him
 
 ⚡ Fun fact: Balancing physical strength with digital bytes, pushing boundaries! 💪💻
+
+🚀 Running a SaaS startup, DDTech, to drive digital innovation.
 
 
 ## 🌐 Socials:
