@@ -1,3 +1,5 @@
+# About Me
+
 🔭 MERN Stack developer diving deep into React, Angular, MongoDB, Docker, Firebase, and AWS.
 
 🌱 Constantly learning and improving skills for crafting seamless full stack websites.
@@ -6,13 +8,14 @@
 
 💬 Tech enthusiast open to discussing the latest tech and science advancements.
 
-📫 Reach me at gawdeakshad@gmail.com for collaborations and tech discussions.
+📫 Reach me at [gawdeakshad@gmail.com](mailto:gawdeakshad@gmail.com) for collaborations and tech discussions.
 
 😄 Pronouns: he/him
 
 ⚡ Fun fact: Balancing physical strength with digital bytes, pushing boundaries! 💪💻
 
-🚀 Running a SaaS startup, DDTech, to drive digital innovation.
+🚀 Running a SaaS startup, [DDTech](https://thedd.tech/), to drive digital innovation.
+
 
 
 ## 🌐 Socials:
