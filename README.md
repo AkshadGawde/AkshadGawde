@@ -10,10 +10,6 @@
 
 📫 Reach me at [gawdeakshad@gmail.com](mailto:gawdeakshad@gmail.com) for collaborations and tech discussions.
 
-😄 Pronouns: he/him
-
-⚡ Fun fact: Balancing physical strength with digital bytes, pushing boundaries! 💪💻
-
 🚀 Running a SaaS startup, [DDTech](https://thedd.tech/), to drive digital innovation.
 
 
