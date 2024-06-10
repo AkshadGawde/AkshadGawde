@@ -4,9 +4,9 @@
 
 🌱 Constantly learning and improving skills for crafting seamless full stack websites and applications.
 
-👯 Passionate about collaborating on AI projects to innovate and solve problems
+👯 Passionate about collaborating on AI projects to innovate and solve problems.
 
-💬 Tech enthusiast open to discussing the latest tech and science advancements
+💬 Tech enthusiast open to discussing the latest tech and science advancements.
 
 📫 Reach me at [gawdeakshad@gmail.com](mailto:gawdeakshad@gmail.com) for collaborations and tech discussions
 
