@@ -1,6 +1,6 @@
 # About Me
 
-🔭 MERN Stack developer diving deep into React, React-Native, MongoDB, Docker, Firebase, and AWS
+🔭 MERN Stack developer diving deep into React, React-Native, MongoDB, Docker, Firebase, and AWS.
 
 🌱 Constantly learning and improving skills for crafting seamless full stack websites and applications
 
