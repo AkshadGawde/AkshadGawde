@@ -2,7 +2,7 @@
 
 🔭 MERN Stack developer diving deep into React, React-Native, MongoDB, Docker, Firebase, and AWS.
 
-🌱 Constantly learning and improving skills for crafting seamless full stack websites and applications
+🌱 Constantly learning and improving skills for crafting seamless full stack websites and applications.
 
 👯 Passionate about collaborating on AI projects to innovate and solve problems
 
