@@ -1,6 +1,6 @@
 # About Me
 
-🔭 MERN Stack developer diving deep into React, React-Native, MongoDB, Docker, Firebase, and AWS.
+🔭 MERN Stack developer diving deep into React, React-Native, Flutter, MongoDB, Docker, Firebase, and AWS.
 
 🌱 Constantly learning and improving skills for crafting seamless full stack websites and applications.
 
@@ -8,9 +8,9 @@
 
 💬 Tech enthusiast open to discussing the latest tech and science advancements.
 
-📫 Reach me at [gawdeakshad@gmail.com](mailto:gawdeakshad@gmail.com) for collaborations and tech discussions
+📫 Reach me at [gawdeakshad@gmail.com](mailto:gawdeakshad@gmail.com) for collaborations and tech discussions. 
 
-🚀 Running a SaaS startup, [DDTech](https://thedd.tech/), to drive digital innovation
+🚀 Running a SaaS startup, [DDTech](https://thedd.tech/), to drive digital innovation.
 
 
 
