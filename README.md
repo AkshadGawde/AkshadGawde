@@ -6,7 +6,7 @@
 
 👯 Passionate about collaborating on AI projects to innovate and solve problems.
 
-💬 Tech enthusiast open to discussing the latest tech and science advancements.
+💬 Tech enthusiast open for  discussing the latest tech and science advancements.
 
 📫 Reach me at [gawdeakshad@gmail.com](mailto:gawdeakshad@gmail.com) for collaborations and tech discussions. 
 
