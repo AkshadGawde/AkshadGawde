@@ -2,9 +2,9 @@
 
 🔭 MERN Stack developer diving deep into React, React-Native, Flutter, MongoDB, Docker, Firebase, AWS, SAP - ABAP - S/4HANA
 
-🌱 Constantly learning and improving skills for crafting seamless full stack websites and applications.
+🌱 Constantly learning and improving skills for crafting seamless full stack websites and applications
 
-👯 Passionate about collaborating on AI projects to innovate and solve problems.
+👯 Passionate about collaborating on AI projects to innovate and solve problems
 
 💬 Tech enthusiast open for discussing the latest tech and science advancements.
 
