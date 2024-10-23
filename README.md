@@ -1,6 +1,6 @@
 # About Me 
 
-🔭 Full Stack developer diving deep into ReactJs, NextJs, Node, Express, Resfull API, React-Native, Flutter, MongoDB, Docker, Firebase, AWS, SAP - ABAP - S/4HANA.
+🔭 Full Stack developer diving deep into ReactJs, NextJs, Node, Express, Resfull API, React-Native, Flutter, MongoDB, Docker, Firebase, AWS, SAP - ABAP.
 
 🌱 Constantly learning and improving skills for crafting seamless full stack websites and applications.
 
