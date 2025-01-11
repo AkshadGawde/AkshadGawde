@@ -10,7 +10,7 @@
 
 📫 Reach me at gawdeakshad@gmail.com for collaborations and tech discussions.
 
-🚀 Running a SaaS startup, [DDTech](https://thedd.tech/), to drive digital innovation
+🚀 Running a SaaS startup, [DDTech](https://thedd.tech/), to drive digital innovation.
 
 
 
